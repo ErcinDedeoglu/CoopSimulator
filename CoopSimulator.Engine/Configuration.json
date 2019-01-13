@@ -1,0 +1,36 @@
+﻿{
+    "GlobalSetting": {
+        "Reporting": {
+            "DatePeriod": "month",
+            "Value": "1"
+        }
+    },
+    "ColdStart": {
+        "MalePopulation": "1",
+        "FemalePopulation": "1"
+    },
+    "PoultryDetail": {
+        "Name": "RABBIT",
+        "MaxAge": {
+            "DatePeriod": "year",
+            "Value": "9"
+        },
+        "DurationOfPregnancy": {
+            "DatePeriod": "day",
+            "Value": "40"
+        },
+        "NumberOfBabiesForEachPregnancy": {
+            "Low": "1",
+            "High": "16"
+        },
+        "AdolescenceAge": {
+            "DatePeriod": "month",
+            "MaleAge": "7",
+            "FemaleAge": "5"
+        },
+        "OldAge": {
+            "DatePeriod": "year",
+            "Value": "8"
+        }
+    }
+}
